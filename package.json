@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage" : "http://myname.github.io/myapp",
   "private": true,
   "dependencies": {
     "react": "^16.3.1",
